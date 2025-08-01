@@ -13,6 +13,7 @@ class Numero:
             print("par")
             if self.numero == 10:
                 print("\nEl número ingresado es 10")
+                print("nueva linea")
                 
     def sumar(self,numerosumar):
         return self.numero + numerosumar
